@@ -1,0 +1,43 @@
+ button{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+
+ }
+ input{
+    margin: 8px;
+    padding: 5px;
+ }
+ table{
+    border: 2px solid whitesmoke;
+ }
+ th {
+    background-color: whitesmoke;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+/* Style the table body cells */
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+.delete-btn-class{
+    border: none;
+    background-color: #f44336;
+    color: white;
+}
+.delete-btn-class:hover{
+    cursor: pointer;
+}
+#button:hover{
+    cursor: pointer;
+
+
+}
